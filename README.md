@@ -6,7 +6,7 @@ A Machine Learning project that detects whether a news article is **Real** or **
 
 ## live link
 
-npx plugins add vercel/vercel-plugin
+ https://sc990389-sketch.github.io/fake-news-detection/
 
 - Classifies news as Real or Fake
 - Text preprocessing and cleaning
